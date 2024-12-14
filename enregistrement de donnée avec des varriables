@@ -1,0 +1,8 @@
+nom="Alla"
+prenom="Loukou"
+profession"Etudiant en RSI"
+age="22"
+print("f je m'appelle {nom} {penom}, je suis {proffession} et j'ai {age} ans."}
+age="23"
+print("f je m'appelle {nom} {prenom} , je suis {profession} et j'ai maintenant {age} an.")
+
